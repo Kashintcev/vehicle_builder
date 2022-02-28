@@ -1,0 +1,4 @@
+[flake8]
+exclude =
+    vehicle_builder/alembic/versions/,
+max-line-length = 119
